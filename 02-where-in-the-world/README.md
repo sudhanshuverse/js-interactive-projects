@@ -6,7 +6,7 @@ The app fetches live data from the **[REST Countries API](https://restcountries.
 ---
 
 ## 🚀 Live Demo
-🔗 [Live Preview](https://your-live-preview-link.com)  
+🔗 [Live Preview](https://sudhanshuverse.github.io/js-interactive-projects/02-where-in-the-world)  
 
 ---
 
