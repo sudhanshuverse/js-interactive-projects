@@ -8,7 +8,7 @@ This repository is meant for practicing **JavaScript fundamentals**, **event han
 
 ## 🌍 Live Demo
 Check out the live version hosted via **GitHub Pages**:  
-👉 [JS Interactive Projects](https://sudhanshuverse.github.io/js-interactive-projects/)
+👉 [JS Interactive Projects](https://sudhanshuverse.github.io/js-interactive-projects/ )
 
 ---
 
