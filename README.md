@@ -25,8 +25,8 @@ Explore all projects live via **GitHub Pages**:
 | 7 | **Multi Typing Effect** | Animated typing effect cycling through **multiple strings**. | [View Project](https://sudhanshuverse.github.io/js-interactive-projects/07-multi-typing/) |
 | 8 | **Bill Splitter** | Split bills among friends with **tip calculation** using **interactive forms**. | [View Project](https://sudhanshuverse.github.io/js-interactive-projects/08-bill-spliter/) |
 | 9 | **Toast Popup** | 09isplay toast notifications dynamically using **JavaScript and CSS animations**. | [View Project](https://sudhanshuverse.github.io/js-interactive-projects/9-tost-popup/) |
-| 10 | **Generate Random Images** | Displays random images on button click. Demonstrates **APIs** & **fetch requests**. | [View Project](https://sudhanshuverse.github.io/js-interactive-projects/10-generate-random-images/) |
-| 11 | **Meme Generator** | Display memes using **API**. | [View Project](https://sudhanshuverse.github.io/js-interactive-projects/11-meme-generator-API/) |
+| 10 | **Generate Random Images** | Displays random images on button click. Demonstrates **APIs** & **fetch requests**. | [View Project](https://sudhanshuverse.github.io/js-interactive-projects/10-generate-random-images-using-API/) |
+| 11 | **Meme Generator** | Display memes using **API**. | [View Project](https://sudhanshuverse.github.io/js-interactive-projects/11-meme-generator-using-API/) |
 ---
 
 ## 🚀 Features
