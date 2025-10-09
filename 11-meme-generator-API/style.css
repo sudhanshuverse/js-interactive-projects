@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Poppins, sans-serif;
+    min-height: 100vh;
+    color: white;
+    background: linear-gradient(to bottom, #323232 0%, #3F3F3F 40%, #1C1C1C 150%), linear-gradient(to top, rgba(255, 255, 255, 0.40) 0%, rgba(0, 0, 0, 0.25) 200%);
+    background-blend-mode: multiply;
+}
+
+main{
+    width: 100%;
+    height: 90vh;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-weight: 400;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.meme-container {
+    padding: 2rem 1rem;
+    max-width: 700px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+    background-color: rgba(146, 119, 146, 0.596);
+    margin-inline: auto;
+    border-radius: 1rem;
+    position: relative;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    font-size: 1rem;
+    font-family: inherit;
+    border-radius: 10px;
+    color: white;
+    background-image: linear-gradient(to right, #243949 0%, #325c80 100%);
+    cursor: pointer;
+}
+
+.loading {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.5rem;
+    color: #333;
+    font-weight: bold;
+}
+
+.image-container {
+    width: 100%;
+    height: 500px;
+}
+
+
+.image-container img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.text-container{
+    width: 100%;
+}
+
+.text-container h3{
+    text-align: center;
+}
+
+.text-container p{
+    color: rgba(240, 248, 255, 0.719);
+    font-style: oblique;
+}
