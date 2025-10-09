@@ -1,0 +1,103 @@
+::selection{
+    background-color: transparent;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: white;
+    margin: 1rem;
+}
+
+h1{
+    text-align: center;
+    margin-top: 2rem;
+
+    /* ANIMATION */
+    opacity: 0;
+    transform: translateY(-100%);
+    transition: 1s ease;
+}
+
+h1.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.card-container{
+    max-width: 400px;
+    height: 500px;
+    background-color: rgba(0, 217, 255, 0.767);
+    margin-inline: auto;
+    margin-top: 5rem;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    padding: 10px;
+
+    /* ANIMATION */
+    opacity: 0;
+    translate: -50%;
+    transition: 1s ease;
+}
+
+.card-container.show {
+    opacity: 1;
+    translate: 0;
+}
+
+
+.show-output{
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.incr-decr{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.increment, .decrement{
+    background-color: blue;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 1.5rem;
+}
+
+.increment-by{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.increment-by input{
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    outline: none;
+}
+
+.reset-btn{
+    padding: 10px 20px;
+    font-size: 1.3rem;
+    border: none;
+    border-radius: 5px;
+    background-color: thistle;
+}
+
+
+
+
