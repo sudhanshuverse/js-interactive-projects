@@ -26,6 +26,7 @@ Explore all projects live via **GitHub Pages**:
 | 8 | **Multi Typing Effect** | Animated typing effect cycling through **multiple strings**. | [View Project](https://sudhanshuverse.github.io/js-interactive-projects/08-multi-typing/) |
 | 9 | **Bill Splitter** | Split bills among friends with **tip calculation** using **interactive forms**. | [View Project](https://sudhanshuverse.github.io/js-interactive-projects/09-bill-spliter/) |
 | 10 | **Toast Popup** | Display toast notifications dynamically using **JavaScript and CSS animations**. | [View Project](https://sudhanshuverse.github.io/js-interactive-projects/10-tost-popup/) |
+| 11 | **Meme Generator** | Display memes using **API**. | [View Project](https://sudhanshuverse.github.io/js-interactive-projects/11/meme-generator-API/) |
 ---
 
 ## 🚀 Features
