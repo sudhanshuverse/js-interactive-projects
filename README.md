@@ -27,7 +27,8 @@ Explore all projects live via **GitHub Pages**:
 | 9 | **Toast Popup** | 09isplay toast notifications dynamically using **JavaScript and CSS animations**. | [View Project](https://sudhanshuverse.github.io/js-interactive-projects/9-tost-popup/) |
 | 10 | **Generate Random Images** | Displays random images on button click. Demonstrates **APIs** & **fetch requests**. | [View Project](https://sudhanshuverse.github.io/js-interactive-projects/10-generate-random-images-using-API/) |
 | 11 | **Meme Generator** | Display memes using **API**. | [View Project](https://sudhanshuverse.github.io/js-interactive-projects/11-meme-generator-using-API/) |
----
+| 12 | **Meme Generator** | Display quotes using **API**. | [View Project](https://sudhanshuverse.github.io/js-interactive-projects/12-quote-generator-using-API/) |
+--
 
 ## 🚀 Features
 - **Hands-on learning:** Practice core JavaScript concepts through real-world mini-projects.  
